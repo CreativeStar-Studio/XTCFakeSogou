@@ -22,6 +22,7 @@
 ```bash
 pip install PySide6 flask flask-cors pywin32
 ```
+3. 下载M2-Team的`NSudoLC.exe`重命名为`NSudoL.exe`丢进`/src/`里
 
 ### 启动步骤
 1. 以管理员身份运行`gui.py`
@@ -54,3 +55,6 @@ pip install PySide6 flask flask-cors pywin32
 
 ## 作者
 团队成员（XTC-星旬）
+
+## 赞助
+本项目需要使用M2-Team NSudo项目的二进制文件
