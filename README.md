@@ -1,5 +1,7 @@
 # 搜狗输入法欺骗工具 XTCFakeSogou
 
+<a href="https://creativestar-studio.github.io/XTCFakeSogou/" style="color: green">查看教程</a>
+
 ## 项目描述
 这是一个通过欺骗搜狗输入法服务器响应数据包，实现在支持搜狗输入法的XTC智能手表上发送特殊符号和表情的工具。包含两个主要组件：
 
